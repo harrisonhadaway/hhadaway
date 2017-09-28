@@ -6,5 +6,6 @@ app.use(express.static(__dirname + '/'));
 
 app.listen(port, function() {
   console.log('I am listening on port 3000!');
+  console.log('test');
 });
 
