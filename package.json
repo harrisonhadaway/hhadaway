@@ -8,10 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.16.0"
   },
-  "dependencies": {},
   "description": "",
   "repository": {
     "type": "git",
